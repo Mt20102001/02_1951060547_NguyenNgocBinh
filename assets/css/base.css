@@ -1,0 +1,8 @@
+:root {
+    --text-color: #666;
+}
+
+.text-size {
+    font-size: 32px;
+    font-weight: 100;
+}
